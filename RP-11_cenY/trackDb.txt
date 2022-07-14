@@ -3,3 +3,4 @@ type bigBed
 bigDataUrl https://raw.githubusercontent.com/fedorrik/hub_RP-11/main/RP-11_cenY/stv.bb
 shortLabel StV
 longLabel ASat StV RP-11
+itemRgb on
