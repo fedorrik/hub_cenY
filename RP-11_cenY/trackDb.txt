@@ -4,3 +4,24 @@ bigDataUrl https://raw.githubusercontent.com/fedorrik/hub_RP-11/main/RP-11_cenY/
 shortLabel StV
 longLabel ASat StV RP-11
 itemRgb on
+
+track hor
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/fedorrik/hub_RP-11/main/RP-11_cenY/hor.bb
+shortLabel AS-HOR
+longLabel ASat HOR RP-11
+itemRgb on
+
+track sf
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/fedorrik/hub_RP-11/main/RP-11_cenY/sf.bb
+shortLabel SF
+longLabel ASat SF RP-11
+itemRgb on
+
+track horhap
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/fedorrik/hub_RP-11/main/RP-11_cenY/horhap.bb
+shortLabel HorHap
+longLabel ASat HOR Haplotypes RP-11
+itemRgb on
