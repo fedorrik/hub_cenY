@@ -1,0 +1,6 @@
+genome rp11.cenY
+trackDb RP-11_cenY/trackDb.txt
+twoBitPath RP-11_cenY/rp11.cenY.2bit
+organism Homo Sapiens
+defaultPos chrY:1-697300
+

@@ -1,0 +1,5 @@
+track stv
+type bigBed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/fedorrik/hub_RP-11/RP-11_cenY/stv.bb
+shortLabel StV
+longLabel ASat StV RP-11
