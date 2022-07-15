@@ -1,6 +1,6 @@
 track stv
 type bigBed
-bigDataUrl stv.bb
+bigDataUrl bb/stv.bb
 shortLabel StV
 longLabel ASat StV RP-11
 itemRgb on
@@ -13,7 +13,7 @@ maxItems 100000
 
 track hor
 type bigBed
-bigDataUrl hor.bb
+bigDataUrl bb/hor.bb
 shortLabel AS-HOR
 longLabel ASat HOR RP-11
 itemRgb on
@@ -26,7 +26,7 @@ maxItems 100000
 
 track sf
 type bigBed
-bigDataUrl sf.bb
+bigDataUrl bb/sf.bb
 shortLabel SF
 longLabel ASat SF RP-11
 itemRgb on
@@ -39,7 +39,7 @@ maxItems 100000
 
 track horhap
 type bigBed
-bigDataUrl horhap.bb
+bigDataUrl bb/horhap.bb
 shortLabel HorHap
 longLabel ASat HOR Haplotypes RP-11
 itemRgb on
