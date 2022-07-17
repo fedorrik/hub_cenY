@@ -37,6 +37,19 @@ type bigBed 9
 itemRgb on
 maxItems 100000
 
+track strand
+type bigBed
+bigDataUrl bb/strand.bb
+shortLabel Strand
+longLabel ASat strand RP-11
+itemRgb on
+group Centromere
+priority 4
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
+
 track horhap
 type bigBed
 bigDataUrl bb/horhap.bb
@@ -44,7 +57,7 @@ shortLabel HorHap
 longLabel ASat HOR Haplotypes RP-11
 itemRgb on
 group Centromere
-priority 4
+priority 5
 visibility dense
 type bigBed 9
 itemRgb on
