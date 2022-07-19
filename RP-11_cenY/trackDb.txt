@@ -2,7 +2,7 @@ track stv
 type bigBed
 bigDataUrl bb/stv.bb
 shortLabel ASat StV
-longLabel ASat StV RP-11
+longLabel ASat StV
 itemRgb on
 group Centromere
 priority 2
@@ -15,7 +15,7 @@ track hor
 type bigBed
 bigDataUrl bb/hor.bb
 shortLabel ASat HOR
-longLabel ASat HOR RP-11
+longLabel ASat HOR
 itemRgb on
 group Centromere
 priority 1
@@ -28,7 +28,7 @@ track sf
 type bigBed
 bigDataUrl bb/sf.bb
 shortLabel ASat SF
-longLabel ASat SF RP-11
+longLabel ASat SF
 itemRgb on
 group Centromere
 priority 3
@@ -41,7 +41,7 @@ track strand
 type bigBed
 bigDataUrl bb/strand.bb
 shortLabel ASat Strand
-longLabel ASat strand RP-11
+longLabel ASat strand
 itemRgb on
 group Centromere
 priority 4
@@ -54,7 +54,7 @@ track horhap
 type bigBed
 bigDataUrl bb/horhap.bb
 shortLabel ASat HorHap
-longLabel ASat HOR Haplotypes RP-11
+longLabel ASat HOR Haplotypes
 itemRgb on
 group Centromere
 priority 5
