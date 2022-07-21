@@ -8,4 +8,4 @@ do
   bedToBigBed bed4track.bed chrom.sizes ../bb/$track.bb
   rm bed4track.bed
 done
-rm chrom.sizes
+#rm chrom.sizes
