@@ -1,5 +1,5 @@
 hub RP-11_cenY
 shortLabel RP-11_cenY
-longLabel cenY of RP-11, HG01243, HG01358, HG03579
+longLabel cenY of RP-11, HG01243, HG01358, HG03579, HG00621
 genomesFile genomes.txt
 email  fedorrik1@gmail.com
