@@ -1,6 +1,6 @@
 #!/bin/bash
 # fastools is my scripts for workong with fasta files https://github.com/fedorrik/fastools
-~/Programs/my/fastools/fastools seqlen ../../../rp11.cenY.fa > chrom.sizes
+~/Programs/my/fastools/fastools seqlen ../../../fa_for_hub/rp11.cenY.fa > chrom.sizes
 for bed in ../bed/*.bed
 do
   track=`echo $bed | awk '{split($0, name, "/"); print name[3]}' | awk '{split($0, name, "."); print name[1]}'`

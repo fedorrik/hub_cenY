@@ -62,3 +62,16 @@ visibility dense
 type bigBed 9
 itemRgb on
 maxItems 100000
+
+track horhap
+type bigBed
+bigDataUrl bb/horhap_hg02055.bb
+shortLabel ASat HorHap
+longLabel ASat HOR Haplotypes
+itemRgb on
+group Centromere
+priority 5
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
