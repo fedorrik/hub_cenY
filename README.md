@@ -15,3 +15,9 @@ and new HGSVC chrY assemblies:
 - HC02666.chrY
 - HG00358.chrY
 - HG01890.chrY
+
+TODO
+fix HGSVC name in 2bit
+color horhap hg002
+make horhap 2055 (home)
+
