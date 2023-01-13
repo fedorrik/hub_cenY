@@ -50,7 +50,7 @@ type bigBed 9
 itemRgb on
 maxItems 100000
 
-track horhap
+track horhap_hg002
 type bigBed
 bigDataUrl bb/horhap_hg002.bb
 shortLabel ASat HorHap
@@ -63,7 +63,7 @@ type bigBed 9
 itemRgb on
 maxItems 100000
 
-track horhap
+track horhap_hg02055
 type bigBed
 bigDataUrl bb/horhap_hg02055.bb
 shortLabel ASat HorHap
