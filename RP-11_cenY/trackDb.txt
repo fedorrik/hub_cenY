@@ -52,7 +52,7 @@ maxItems 100000
 
 track horhap
 type bigBed
-bigDataUrl bb/horhap.bb
+bigDataUrl bb/horhap_hg002.bb
 shortLabel ASat HorHap
 longLabel ASat HOR Haplotypes
 itemRgb on
