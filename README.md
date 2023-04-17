@@ -1,4 +1,4 @@
-# hub_RP-11
+# hub_cenY
 
 UCSC browser hub for assemblies of chrY's centromere regions (cenY):
 

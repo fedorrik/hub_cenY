@@ -1,6 +1,6 @@
-genome rp11.cenY
-trackDb RP-11_cenY/trackDb.txt
-twoBitPath RP-11_cenY/rp11.cenY.2bit
+genome cenY
+trackDb cenY/trackDb.txt
+twoBitPath cenY/cenY.2bit
 organism Homo Sapiens
 defaultPos RP-11.cenY:194000-837860
 
